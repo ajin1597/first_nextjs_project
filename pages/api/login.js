@@ -2,6 +2,8 @@ const 원본id = "ksw";
 const 원본pw = "1234";
 
 export default function handler(req, res) {
+  console.log("박종훈박종훈박종훈박종훈박종훈박종훈박종훈");
+  
   console.log(req.body);
   const { id, pw } = req.body;
 
