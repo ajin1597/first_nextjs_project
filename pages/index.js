@@ -5,7 +5,7 @@ export default function Page() {
   return (
     <>
       <Layout test="hello">
-        <div>박종훈</div>
+        <div>박종훈박종훈</div>
       </Layout>
 
       {/* <Counter /> */}
